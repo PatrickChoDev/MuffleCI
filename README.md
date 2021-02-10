@@ -1,1 +1,1 @@
-MuffleCI : The new CI/CD tool for development
+# **MuffleCI : The new CI/CD tool for development**
